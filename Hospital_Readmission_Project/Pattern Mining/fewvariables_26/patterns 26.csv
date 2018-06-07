@@ -1,0 +1,11 @@
+"","rules","support","confidence","lift","count"
+"1979","{race=Caucasian,discharge_disposition_id=Another_Rehab,admission_source_id=[7,25],Sulfonylurea_9=No} => {target=Within30days}",0.0101815891676288,0.889908256880734,1.78149946696843,97
+"1980","{A1Cresult=not_tested,discharge_disposition_id=Another_Rehab,admission_source_id=[7,25],Sulfonylurea_9=No} => {target=Within30days}",0.0107064133515272,0.879310344827586,1.76028360058256,102
+"1990","{race=Caucasian,A1Cresult=not_tested,discharge_disposition_id=Another_Rehab,admission_source_id=[7,25]} => {target=Within30days}",0.0113362023722053,0.870967741935484,1.74358261765483,108
+"1939","{race=Caucasian,gender=Female,discharge_disposition_id=Another_Rehab,Sulfonylurea_9=No} => {target=Within30days}",0.0103915188411882,0.860869565217391,1.72336716701536,99
+"1984","{race=Caucasian,diabetesMed=Yes,discharge_disposition_id=Another_Rehab,admission_source_id=[7,25]} => {target=Within30days}",0.0121759210664427,0.859259259259259,1.72014350976318,116
+"2012","{A1Cresult=not_tested,admission_type_id=emergency,discharge_disposition_id=Another_Rehab,Sulfonylurea_9=No} => {target=Within30days}",0.0118610265561037,0.856060606060606,1.71374015422135,113
+"2044","{race=Caucasian,diabetesMed=Yes,discharge_disposition_id=Another_Rehab,Sulfonylurea_9=No} => {target=Within30days}",0.0128057100871208,0.853146853146853,1.70790713803952,122
+"315","{race=Caucasian,discharge_disposition_id=Another_Rehab,admission_source_id=[7,25]} => {target=Within30days}",0.0139603232916973,0.852564102564103,1.70674053480315,133
+"1994","{race=Caucasian,discharge_disposition_id=Another_Rehab,admission_source_id=[7,25],glucosides=No} => {target=Within30days}",0.0139603232916973,0.852564102564103,1.70674053480315,133
+"1952","{race=Caucasian,gender=Female,discharge_disposition_id=Another_Rehab,Thiazolidinediones_5=No} => {target=Within30days}",0.0109163430250866,0.852459016393443,1.70653016372774,104

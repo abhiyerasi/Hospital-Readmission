@@ -1,0 +1,11 @@
+"","rules","support","confidence","lift","count"
+"1362","{race=Caucasian,glyburide=No,glyburide.metformin=No,discharge_disposition_id=Another_Rehab} => {target=Within30days}",0.0203738710354967,0.811715481171548,1.62411321952416,194
+"1349","{race=Caucasian,glipizide=No,glyburide.metformin=No,discharge_disposition_id=Another_Rehab} => {target=Within30days}",0.0201638311279143,0.810126582278481,1.62093408624831,192
+"92","{race=Caucasian,glyburide=No,discharge_disposition_id=Another_Rehab} => {target=Within30days}",0.0210039907582441,0.809716599190283,1.62011377547591,200
+"1364","{race=Caucasian,glyburide=No,acarbose=No,discharge_disposition_id=Another_Rehab} => {target=Within30days}",0.0210039907582441,0.809716599190283,1.62011377547591,200
+"1365","{race=Caucasian,chlorpropamide=No,glyburide=No,discharge_disposition_id=Another_Rehab} => {target=Within30days}",0.0210039907582441,0.809716599190283,1.62011377547591,200
+"1366","{race=Caucasian,glyburide=No,tolazamide=No,discharge_disposition_id=Another_Rehab} => {target=Within30days}",0.0210039907582441,0.809716599190283,1.62011377547591,200
+"1367","{race=Caucasian,glyburide=No,miglitol=No,discharge_disposition_id=Another_Rehab} => {target=Within30days}",0.0210039907582441,0.809716599190283,1.62011377547591,200
+"1368","{race=Caucasian,glyburide=No,glipizide.metformin=No,discharge_disposition_id=Another_Rehab} => {target=Within30days}",0.0210039907582441,0.809716599190283,1.62011377547591,200
+"1369","{race=Caucasian,glyburide=No,metformin.pioglitazone=No,discharge_disposition_id=Another_Rehab} => {target=Within30days}",0.0210039907582441,0.809716599190283,1.62011377547591,200
+"1370","{race=Caucasian,glyburide=No,metformin.rosiglitazone=No,discharge_disposition_id=Another_Rehab} => {target=Within30days}",0.0210039907582441,0.809716599190283,1.62011377547591,200
